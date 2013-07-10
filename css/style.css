@@ -1,0 +1,16 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background:#ccc;
+	padding:10px;
+}
+
+p {
+	display:inline;
+	background:#fff;
+	padding:10px;
+	border-radius:30px;
+	color:#ff9600;
+	font-weight:bold;
+}
